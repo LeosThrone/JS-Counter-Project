@@ -24,4 +24,4 @@ A basic web-based counter application built using **JavaScript**, **HTML**, and 
 ## 🏃‍♀️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/JS-Counter-Project.git
+   git clone https://github.com/LeosThrone/JS-Counter-Project.git
